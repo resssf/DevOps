@@ -1,11 +1,13 @@
 ## Goal
-// What does PR accomplish?
+// What does this PR accomplish?
 
 ## Changes
 // What was modified?
 
 ## Testing
-// How was it tested?
+// How was it verified?
 
 ## Checklist 
-- [] Clear PR request
+- [ ] Clear, descriptive PR title
+- [ ] Documentation/README updated (if needed)
+- [ ] No secrets or large temporary files committed
